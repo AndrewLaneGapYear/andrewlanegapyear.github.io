@@ -5,6 +5,9 @@ body{
 h1{
 	color: orange;
 }
+h2{
+	color: orange;
+}
 .introduction{
 	background-color: rgba(13,13,13,0.5);
 	border: none;
@@ -38,6 +41,9 @@ h1{
 	border: none;
 	border-radius: 10px;
 	color: rgb(245,245,245);
+}
+.textarea{
+	font-color: black;
 }
 .submit{
 	color: white;
