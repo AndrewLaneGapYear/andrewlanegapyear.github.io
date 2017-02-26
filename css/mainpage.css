@@ -15,15 +15,6 @@ h2{
 	color: rgb(245,245,245);
 
 }
-.facebook{
-		
-}
-.instagram{
-	
-}
-.linkedin{
-	}
-
 .mexico{
 	width: 100%;
 	height: 50%;
@@ -36,6 +27,13 @@ h2{
 	width: 100%;
 	height: 50%;
 }
+.aboutme{
+	background-color: rgba(13,13,13,0.5);
+	border: none;
+	border-radius: 10px;
+	color: rgb(245,245,245);
+
+}
 .vote{
 	background-color: rgba(13,13,13,0.5);
 	border: none;
@@ -43,7 +41,8 @@ h2{
 	color: rgb(245,245,245);
 }
 .textarea{
-	font-color: black;
+	color: black;
+	font-size: 20;
 }
 .submit{
 	color: white;
