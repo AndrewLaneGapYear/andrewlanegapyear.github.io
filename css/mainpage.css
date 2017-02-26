@@ -1,0 +1,25 @@
+body{
+	background: url("../img/kohtao3.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+h1{
+	color: orange;
+}
+.introduction{
+	background-color: rgba(13,13,13,0.5);
+	border: none;
+	border-radius: 10px;
+	color: rgb(245,245,245);
+
+}
+.facebook{
+		
+}
+.instagram{
+	
+}
+.linkedin{
+	}
+
+
+	/*#7FB2F0 */
